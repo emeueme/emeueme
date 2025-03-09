@@ -1,7 +1,13 @@
-## Hi there 👋
-<picture>
-  srcset="https://www.icegif.com/wp-content/uploads/2021/11/icegif-263.gif"
-</picture>
+# Olá, sou [Seu Nome]! 👋
+
+Aqui está um GIF divertido para me apresentar:
+
+![Bem-vindo ao meu perfil](https://media.giphy.com/media/3o6gE5aY9WhxuOZXhO/giphy.gif)
+
+## Sobre Mim
+
+Sou um desenvolvedor apaixonado por [tecnologias que você usa], e adoraria colaborar com você!
+
 
 <!--
 **emeueme/emeueme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

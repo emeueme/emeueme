@@ -4,8 +4,7 @@
 
 ## ABOUT ME:
 
-  I have always been passionate about technology and how it makes our lives easier, from everyday life to entertainment. This sparked a huge interest in me to learn how to contribute to this.
-I am an avid learner and always willing to try new things.
+  I've always been passionate and dedicated in learning new things, especially about technology. I'm a quicky learner and always willing to see from different perspectives.
 
 ## CONTACT ME:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)

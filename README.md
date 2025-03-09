@@ -1,6 +1,7 @@
 # Hi, my name is Matheus!
 
-![Bem-vindo ao meu perfil](https://giphy.com/gifs/YOUNetflix-you-netflix-younetflix-YOBSz25FjUUzQdff8F)
+![Bem-vindo ao meu perfil](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2aThoajJrMnI2OTB1cWhudXo5ZmRleG9tdjhtcnNlZXdrbjY0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOBSz25FjUUzQdff8F/giphy.gif)
+
 ## About Me
 
 I have always been passionate about technology and how it makes our lives easier, from everyday life to entertainment. This sparked a huge interest in me to learn how to contribute to this.

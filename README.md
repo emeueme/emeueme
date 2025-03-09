@@ -1,12 +1,11 @@
-# Olá, sou [Seu Nome]! 👋
+# Hi, my name is Matheus!
 
-Aqui está um GIF divertido para me apresentar:
+![Bem-vindo ao meu perfil]([https://media.giphy.com/media/3o6gE5aY9WhxuOZXhO/giphy.gif](https://www.icegif.com/wp-content/uploads/2021/11/icegif-263.gif))
 
-![Bem-vindo ao meu perfil](https://media.giphy.com/media/3o6gE5aY9WhxuOZXhO/giphy.gif)
+## About Me
 
-## Sobre Mim
-
-Sou um desenvolvedor apaixonado por [tecnologias que você usa], e adoraria colaborar com você!
+I have always been passionate about technology and how it makes our lives easier, from everyday life to entertainment. This sparked a huge interest in me to learn how to contribute to this.
+I am an avid learner and always willing to try new things.
 
 
 <!--

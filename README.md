@@ -1,6 +1,6 @@
 # Hi, my name is Matheus!
 
-![Bem-vindo ao meu perfil]([https://media.giphy.com/media/3o6gE5aY9WhxuOZXhO/giphy.gif](https://www.icegif.com/wp-content/uploads/2021/11/icegif-263.gif))
+![Bem-vindo ao meu perfil](https://media.giphy.com/media/3o6gE5aY9WhxuOZXhO/giphy.gif](https://www.icegif.com/wp-content/uploads/2021/11/icegif-263.gif)](https://giphy.com/gifs/YOUNetflix-you-netflix-younetflix-YOBSz25FjUUzQdff8F)
 
 ## About Me
 

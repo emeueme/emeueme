@@ -1,6 +1,12 @@
 # Olá, eu sou o Matheus Souza!
 
 ![Boas-vindas](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2aThoajJrMnI2OTB1cWhudXo5ZmRleG9tdjhtcnNlZXdrbjY0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOBSz25FjUUzQdff8F/giphy.gif)
+<a href="https://www.linkedin.com/in/matheus-souza-528ba4206" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://wa.me/5571996357674" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 🧠 Estudante de **Ciência de Dados & IA** (SENAI CIMATEC)  
 💻 Cursando **Análise e Desenvolvimento de Sistemas** (IFBA)  

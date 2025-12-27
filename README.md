@@ -20,7 +20,6 @@
 
 🔗 [Classificador-de-nivel-de-Heroi](https://github.com/emeueme/Classificador-de-nivel-de-Heroi) — Projeto desenvolvendo lógica em JavaScript  
 🔗 [Calculadora-de-partidas-Rankeadas](https://github.com/emeueme/Calculadora-de-partidas-Rankeadas) — Simples aplicação lógica em JS  
-*(adicione aqui mais conforme for evoluindo)*
 
 ---
 

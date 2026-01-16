@@ -1,36 +1,35 @@
-# Olá, eu sou o Matheus Souza!
+# Olá, eu sou o Matheus Souza 👋
 
-![Boas-vindas](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2aThoajJrMnI2OTB1cWhudXo5ZmRleG9tdjhtcnNlZXdrbjY0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOBSz25FjUUzQdff8F/giphy.gif)
-
-🧠 Estudante de **Ciência de Dados & IA** (SENAI CIMATEC)  
+🧠 Estudante de **Ciência de Dados & Inteligência Artificial** (SENAI CIMATEC)  
 💻 Cursando **Análise e Desenvolvimento de Sistemas** (IFBA)  
-📍 Brasil | Buscando oportunidades **remotas**
+📍 Brasil | **Buscando estágio remoto** em tecnologia
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
+## 🛠️ Tecnologias
 
-**Linguagens:** Python, HTML, CSS  
+**Linguagens:** Python  
+**Banco de dados:** MySQL  
 **Ferramentas:** Git, GitHub, VS Code  
-**Conceitos:** Lógica de programação, Programação Orientada a Objetos
+**Interfaces:** Tkinter  
+**Conceitos:** Lógica de Programação, Programação Orientada a Objetos
 
 ---
 
 ## 🚀 Projetos em destaque
 
-🔗 [Classificador-de-nivel-de-Heroi](https://github.com/emeueme/Classificador-de-nivel-de-Heroi) — Projeto desenvolvendo lógica em JavaScript  
-🔗 [Calculadora-de-partidas-Rankeadas](https://github.com/emeueme/Calculadora-de-partidas-Rankeadas) — Simples aplicação lógica em JS  
+🔗 **[controle-financeiro-python](https://github.com/emeueme/controle-financeiro-python)**  
+Aplicação desktop em Python para controle financeiro pessoal, com autenticação de usuários, dashboard interativo e geração de relatórios em PDF, Excel e gráficos.
+
+🔗 [Classificador-de-nivel-de-Heroi](https://github.com/emeueme/Classificador-de-nivel-de-Heroi)  
+Projeto de estudos focado em lógica de programação com JavaScript.
 
 ---
 
-## 📫 Me encontre também
+## 📫 Contato
 
 <a href="https://www.linkedin.com/in/matheus-souza-528ba4206" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://wa.me/5571996357674" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:itsemezing@outlook.com">

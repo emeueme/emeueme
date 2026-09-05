@@ -2,7 +2,7 @@
 
 🧠 Estudante de **Ciência de Dados & Inteligência Artificial** (SENAI CIMATEC)  
 💻 Cursando **Análise e Desenvolvimento de Sistemas** (IFBA)  
-📍 Brasil | **Buscando estágio remoto** em tecnologia
+📍 Brasil | **Buscando estágio remoto** em Ciência de Dados/ Análise de Dados
 
 ---
 
